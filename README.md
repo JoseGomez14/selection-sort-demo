@@ -1,5 +1,9 @@
 # Selection Sort Demo
-# ==================
+---
+<div align="center">
+  <img src="https://github.com/JoseGomez14/selection-sort-demo/assets/110755221/24d3e7af-0028-497f-bbfa-a295956b6d56" />
+</div>
+---
 
 This is a demo of the selection sort algorithm applied to a list of objects with different attributes.
 
