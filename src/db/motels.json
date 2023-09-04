@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Amor Oculto",
+    "name": "Caballo de Troya",
     "rate": 3.8,
     "mean_price": 75.5,
     "opening_date": "12/05/2019",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "name": "Estrellas Romanticas",
+    "name": "Virgen de los Dolores",
     "rate": 4.5,
     "mean_price": 85.0,
     "opening_date": "20/07/2018",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "name": "Luna de Miel",
+    "name": "Pájaro Loco",
     "rate": 4.9,
     "mean_price": 100.25,
     "opening_date": "30/11/2017",
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "name": "Susurros de Amor",
+    "name": "Rapid - Int",
     "rate": 4,
     "mean_price": 95.75,
     "opening_date": "22/06/2016",
